@@ -4,8 +4,8 @@
 This course will run from January 15th until May. This course will be live-streamed on Twitch.TV and then uploaded to YouTube 48 hours later. Each lecture will be between an hour to an hour and 15 minutes, followed by an hour to work on projects related to the course. The overall schedule is broken up into blocks as such:
 
 **BLOCKS**:
-* Block 1: Image
-* Block 2: Tabular
+* Block 1: Computer Vision
+* Block 2: Tabular Neural Networks
 * Block 3: Natural Langauge Processing
 
 Here is the overall schedule broken down by week:

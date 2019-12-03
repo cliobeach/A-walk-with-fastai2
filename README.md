@@ -6,7 +6,7 @@ This course will run from January 15th until May. This course will be live-strea
 **BLOCKS**:
 * Block 1: Computer Vision
 * Block 2: Tabular Neural Networks
-* Block 3: Natural Langauge Processing
+* Block 3: Natural Language Processing
 
 Here is the overall schedule broken down by week:
 *This schedule is subject to change*
@@ -14,7 +14,7 @@ Here is the overall schedule broken down by week:
 **Block 1** (January 15th - February 19th):
 * Lesson 1: PETS and Custom Datasets (a warm introduction to the DataBlock API)
 * Lesson 2: MNIST, SGD, Multi-Label Classification, and Dealing with Unknown Labels
-* Lesson 3: Image Segmentaiton, Image Regression, State-of-the-Art in Computer Vision
+* Lesson 3: Image Segmentation, Image Regression, State-of-the-Art in Computer Vision
 * Lesson 4: Pose Detection and Style Transfer
 * Lesson 5: GAN's
 * Lesson 6: Audio, Object Detection
@@ -27,7 +27,7 @@ Here is the overall schedule broken down by week:
 
 **BLOCK 3** (March 25th - April 15th):
 * Lesson 1: Introduction to NLP and the LSTM
-* Lesson 2: Full Sentimant Classification, Tokenizers, and Ensembling
+* Lesson 2: Full Sentiment Classification, Tokenizers, and Ensembling
 * Lesson 3: Other State-of-the-Art NLP Models and Multilingual Data
 * Lesson 4: DeViSe
 

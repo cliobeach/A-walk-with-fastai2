@@ -30,3 +30,5 @@ Here is the overall schedule broken down by week:
 * Lesson 2: Full Sentimant Classification, Tokenizers, and Ensembling
 * Lesson 3: Other State-of-the-Art NLP Models and Multilingual Data
 * Lesson 4: DeViSe
+
+We have a Group Study discussion [here] on the Fast.AI forums for discussing this material and asking specific questions.

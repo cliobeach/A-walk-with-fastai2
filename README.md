@@ -18,8 +18,8 @@ Here is the overall schedule broken down by week:
 *This schedule is subject to change*
 
 **Block 1** (January 15th - February 19th):
-* Lesson 1: PETS and Custom Datasets (a warm introduction to the DataBlock API)
-* Lesson 2: MNIST, SGD, Multi-Label Classification, and Dealing with Unknown Labels
+* Lesson 1: PETs and Custom Datasets (a warm introduction to the DataBlock API)
+* Lesson 2: Image Classification Models from Scratch, Stochastic Gradient Descent, Multi-Label Classification, and Dealing with Unknown Labels
 * Lesson 3: Image Segmentation, Image Regression, State-of-the-Art in Computer Vision
 * Lesson 4: Pose Detection and Style Transfer
 * Lesson 5: GAN's

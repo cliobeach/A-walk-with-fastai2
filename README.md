@@ -32,3 +32,5 @@ Here is the overall schedule broken down by week:
 * Lesson 4: DeViSe
 
 We have a Group Study discussion [here] on the Fast.AI forums for discussing this material and asking specific questions.
+
+* NOTE: This course does **not** have a certification or credit. This is something I have been doing for the past few semesters to help branch fellow Undergraduates at my school into the world of fastai, and this year I am making it much more available. 

@@ -1,4 +1,4 @@
-# Practical Deep Learning for Coders 2.0 Lecture Material 
+# Practical Deep Learning for Coders 2.0 Lecture Material (January 2020 - April 2020)
 **NOTE! THIS IS DIFFERENT FROM THE UNIVERSITY OF SAN FRANSCISCO VERSION** 
 
 This course will run from January 15th until May. This course will be livestreamed on Twitch.TV and then uploaded to YouTube 48 hours later. Each lecture will be between an hour to an hour and 15 minutes, followed by an hour to work on independant projects related to the course. The overall schedule is broken up into blocks as such:
@@ -11,7 +11,7 @@ This course will run from January 15th until May. This course will be livestream
 Here is the overall schedule broken down by week:
 *This schedule is subject to change*
 
-**Block 1**:
+**Block 1** (January 15th - February 19th):
 * Lesson 1: PETS and Custom Datasets (a warm introduction to the DataBlock API)
 * Lesson 2: MNIST, SGD, Multi-Label Classification, and Dealing with Unknown Labels
 * Lesson 3: Image Segmentaiton, Image Regression, State-of-the-Art in Computer Vision
@@ -19,13 +19,13 @@ Here is the overall schedule broken down by week:
 * Lesson 5: GAN's
 * Lesson 6: Audio, Object Detection
 
-**Block 2**:
+**Block 2** (February 26th - March 18th):
 * Lesson 1: Pandas Workshop and Tabular Classification
 * Lesson 2: Feature Engineering and Tabular Regression
 * Lesson 3: Permutation Importance, Bayesian Optimization, Cross-Validation, and Labeled Test Sets
 * Lesson 4: Kaggle Competitions, RAPIDs.AI
 
-**BLOCK 3**:
+**BLOCK 3** (March 25th - April 15th):
 * Lesson 1: Introduction to NLP and the LSTM
 * Lesson 2: Full Sentimant Classification, Tokenizers, and Ensembling
 * Lesson 3: Other State-of-the-Art NLP Models and Multilingual Data

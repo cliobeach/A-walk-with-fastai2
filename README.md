@@ -23,7 +23,7 @@ Here is the overall schedule broken down by week:
 * Lesson 3: Multi-Label Classification, and Dealing with Unknown Labels
 * Lesson 4: Image Segmentation, Image Regression, State-of-the-Art in Computer Vision
 * Lesson 5: Pose Detection and Style Transfer
-* Lesson 6: GAN's
+* Lesson 6: Image Generation and Super Resolution
 * Lesson 7: Audio, Object Detection
 
 **Block 2** (March 4th - March 25th):

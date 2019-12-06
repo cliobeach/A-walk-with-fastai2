@@ -1,7 +1,7 @@
 # A walk with fastai2 (January 2020 - April 2020)
 **NOTE! THIS IS DIFFERENT FROM THE UNIVERSITY OF SAN FRANSCISCO VERSION** 
 
-This course will run from January 15th until May. This course will be live-streamed on YouTube. Each lecture will be between an hour to an hour and 15 minutes, followed by an hour to work on projects related to the course. 
+This course will run from January 15th until May and will be live-streamed on YouTube. Each lecture will be between an hour to an hour and 15 minutes, followed by an hour to work on projects related to the course. 
 
 **Requirements**:
 * A Google account to utilize Google Colaboratory

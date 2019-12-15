@@ -45,7 +45,11 @@ A list of datasets that I am thinking of using for the course by lesson for exam
 **Lesson 4:**
  * IEEE-CIS Fraud Detection [URL](https://www.kaggle.com/c/ieee-fraud-detection)
  * ADULTs (fastai)
- 
+Architecture Codes:
+* [TabNet](https://github.com/google-research/google-research/blob/master/tabnet/README.md)
+* [SuperTML](https://github.com/EmjayAhn/SuperTML-pytorch)
+* [NODE](https://github.com/Qwicen/node)
+
 ## NLP:
 **Lesson 1:**
  * Human Numbers (fastai)
